@@ -20,9 +20,9 @@ This portfolio presents **three production-grade projects** where I worked as a 
 
 #### Key Screens
 <p align="center">
-  <img src="images/tm-digital/analise-area.png" width="800" />
-  <img src="images/tm-digital/prefinanciamento.png" width="800" />
-  <img src="images/tm-digital/inteligencia.png" width="800" />
+  <img src="https://raw.githubusercontent.com/Yanps/yan-portifolio/master/images/tm-digital/analise-area.png" width="800" />
+  <img src="https://raw.githubusercontent.com/Yanps/yan-portifolio/master/images/tm-digital/prefinanciamento.png" width="800" />
+  <img src="https://raw.githubusercontent.com/Yanps/yan-portifolio/master/images/tm-digital/inteligencia.png" width="800" />
 </p>
 
 **Overview**  
@@ -42,9 +42,9 @@ Geospatial intelligence platform supporting agricultural credit risk analysis us
 
 #### Key Screens
 <p align="center">
-  <img src="images/inchurch-web/dashboard.png" width="800" />
-  <img src="images/inchurch-web/analytics.png" width="800" />
-  <img src="images/inchurch-web/members.png" width="800" />
+  <img src="https://raw.githubusercontent.com/Yanps/yan-portifolio/master/images/inchurch-web/dashboard.png" width="800" />
+  <img src="https://raw.githubusercontent.com/Yanps/yan-portifolio/master/images/inchurch-web/analytics.png" width="800" />
+  <img src="https://raw.githubusercontent.com/Yanps/yan-portifolio/master/images/inchurch-web/members.png" width="800" />
 </p>
 
 **Overview**  
@@ -64,13 +64,13 @@ Administrative and analytics platform enabling churches to manage engagement, fi
 
 #### Key Screens
 <p align="center">
-  <img src="images/inchurch-mobile/home.jpg" width="260" />
-  <img src="images/inchurch-mobile/agenda.jpg" width="260" />
-  <img src="images/inchurch-mobile/tracks.jpg" width="260" />
+  <img src="https://raw.githubusercontent.com/Yanps/yan-portifolio/master/images/inchurch-mobile/home.jpg" width="260" />
+  <img src="https://raw.githubusercontent.com/Yanps/yan-portifolio/master/images/inchurch-mobile/agenda.jpg" width="260" />
+  <img src="https://raw.githubusercontent.com/Yanps/yan-portifolio/master/images/inchurch-mobile/tracks.jpg" width="260" />
 </p>
 <p align="center">
-  <img src="images/inchurch-mobile/content.jpg" width="260" />
-  <img src="images/inchurch-mobile/login.jpg" width="260" />
+  <img src="https://raw.githubusercontent.com/Yanps/yan-portifolio/master/images/inchurch-mobile/content.jpg" width="260" />
+  <img src="https://raw.githubusercontent.com/Yanps/yan-portifolio/master/images/inchurch-mobile/login.jpg" width="260" />
 </p>
 
 **Overview**  
