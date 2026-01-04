@@ -19,9 +19,11 @@ This portfolio presents **three production-grade projects** where I worked as a 
 **Angular · NgRx · Mapbox · NestJS · PostgreSQL**
 
 #### Key Screens
-![Land Analysis](images/tm-digital/analise-area.png)
-![Credit Flow](images/tm-digital/prefinanciamento.png)
-![Intelligence](images/tm-digital/inteligencia.png)
+<p align="center">
+  <img src="images/tm-digital/analise-area.png" width="800" />
+  <img src="images/tm-digital/prefinanciamento.png" width="800" />
+  <img src="images/tm-digital/inteligencia.png" width="800" />
+</p>
 
 **Overview**  
 Geospatial intelligence platform supporting agricultural credit risk analysis using satellite imagery, land-use classification, and compliance data.
@@ -39,9 +41,11 @@ Geospatial intelligence platform supporting agricultural credit risk analysis us
 **Angular · Chart.js · PrimeNG · TailwindCSS · Node.js · NestJS**
 
 #### Key Screens
-![Dashboard](images/inchurch-web/dashboard.png)
-![Analytics](images/inchurch-web/analytics.png)
-![Members](images/inchurch-web/members.png)
+<p align="center">
+  <img src="images/inchurch-web/dashboard.png" width="800" />
+  <img src="images/inchurch-web/analytics.png" width="800" />
+  <img src="images/inchurch-web/members.png" width="800" />
+</p>
 
 **Overview**  
 Administrative and analytics platform enabling churches to manage engagement, finances, and operations using data-driven dashboards.
@@ -59,11 +63,15 @@ Administrative and analytics platform enabling churches to manage engagement, fi
 **React Native · Node.js · NestJS**
 
 #### Key Screens
-![Home](images/inchurch-mobile/home.jpg)
-![Agenda](images/inchurch-mobile/agenda.jpg)
-![Tracks](images/inchurch-mobile/tracks.jpg)
-![Content](images/inchurch-mobile/content.jpg)
-![Login](images/inchurch-mobile/login.jpg)
+<p align="center">
+  <img src="images/inchurch-mobile/home.jpg" width="260" />
+  <img src="images/inchurch-mobile/agenda.jpg" width="260" />
+  <img src="images/inchurch-mobile/tracks.jpg" width="260" />
+</p>
+<p align="center">
+  <img src="images/inchurch-mobile/content.jpg" width="260" />
+  <img src="images/inchurch-mobile/login.jpg" width="260" />
+</p>
 
 **Overview**  
 Mobile-first app serving as the primary engagement channel between churches and members, featuring content, events, live streams, and spiritual journeys.
